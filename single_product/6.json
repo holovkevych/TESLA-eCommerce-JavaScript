@@ -1,0 +1,41 @@
+{
+    "id":"6",
+    "fields":
+    {
+      "company":"Model Y",
+      "colors":["#1B3D81","silver", "black", "red", "#eae0c8"],
+      "price":6099000,
+      "name":"Tesla Model Y Performance 2021",
+      "description": "The Model Y Performance is the sportier version of the Long Range Model Y. It has a zero to sixty time of 3.5 seconds, and it can achieve 303 miles on a charge. For the price, its combination of performance and range are unparalleled in the crossover sector. Overall, $60,990 isn’t an awful price for a crossover with supercar-like specs. ",
+      "list": "Range: 303 miles / Drivetrain: AWD / Acceleration: 0-60 in 3.5 seconds",
+      "image":
+      [
+        {
+          "url":"./images/2021_Tesla_Model_Y_Performance.webp",
+          "filename":"2021_Tesla_Model_Y_Performance.webp",
+          "type":"image/webp",
+          "thumbnails":
+          {
+            "small":
+            {
+              "url":"./images/2021_Tesla_Model_Y_Performance.webp",
+              "width":56,
+              "height":36
+            },
+            "large":
+            {
+              "url":"./images/2021_Tesla_Model_Y_Performance.webp",
+              "width":801,
+              "height":512
+            },
+            "full":
+            { 
+              "url":"./images/2021_Tesla_Model_Y_Performance.webp",
+              "width":3000,
+              "height":3000
+            }
+          }
+        }
+      ]
+    }
+  }

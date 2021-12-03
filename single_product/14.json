@@ -1,0 +1,41 @@
+{
+    "id":"14",
+    "fields":
+    {
+      "company":"Roadster",
+      "colors":["#1B3D81","silver", "black", "red", "#eae0c8"],
+      "price":20000000,
+      "name":"Tesla Roadster 202X",
+      "description": "Talks of an updated Roadster began circulating as early as 2011. With more delays than a budget airline flight, the refreshed Tesla Roadster should surely come out soon. Well, it’s actually unlikely to come out soon because the Cybertruck, which has been delayed, is prioritized for production. However, the Roadster should be worth the wait because it will provide disturbingly quick performance numbers: 620 miles of range and a 1.9 second 0-60 run in the base model. A more powerful SpaceX Edition is also underway, and since it’s equipped with cold air thrusters, expect a zero to sixty time of around 1.1 seconds.",
+      "list": "Range: 620 miles / Drivetrain: AWD / Acceleration: 0-60 in <1.9 seconds",
+      "image":
+      [
+        {
+          "url":"./images/202X_Tesla_Roadster.webp",
+          "filename":"202X_Tesla_Roadster.webp",
+          "type":"image/webp",
+          "thumbnails":
+          {
+            "small":
+            {
+              "url":"./images/202X_Tesla_Roadster.webp",
+              "width":56,
+              "height":36
+            },
+            "large":
+            {
+              "url":"./images/202X_Tesla_Roadster.webp",
+              "width":801,
+              "height":512
+            },
+            "full":
+            { 
+              "url":"./images/202X_Tesla_Roadster.webp",
+              "width":3000,
+              "height":3000
+            }
+          }
+        }
+      ]
+    }
+  }

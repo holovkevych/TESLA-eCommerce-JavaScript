@@ -1,0 +1,42 @@
+{
+    "id":"13",
+    "fields":
+    {
+      "company":"Cybertruck",
+      "colors":["#1B3D81","silver", "black", "red", "#eae0c8"],
+      "price":6990000,
+      "featured": true,
+      "name":"Tesla Cybertruck Tri Motor 2023",
+      "description": "Since Tesla manufactures the Cybertruck, there obviously has to be an obnoxious performance variant. The top trim Cybertruck utilizes a tri-motor setup and can accelerate from zero to sixty in under three seconds, which is impressive for any vehicle, let alone a trapezoidal prism with four wheels.",
+      "list": "Range: 500+ miles / Drivetrain: AWD / Acceleration: 0-60 in <2.9 seconds / Towing Capacity: 14.000+ pounds",
+      "image":
+      [
+        {
+          "url":"./images/2023_Tesla_Cybertruck_Tri_Motor.webp",
+          "filename":"2023_Tesla_Cybertruck_Tri_Motor.webp",
+          "type":"image/webp",
+          "thumbnails":
+          {
+            "small":
+            {
+              "url":"./images/2023_Tesla_Cybertruck_Tri_Motor.webp",
+              "width":56,
+              "height":36
+            },
+            "large":
+            {
+              "url":"./images/2023_Tesla_Cybertruck_Tri_Motor.webp",
+              "width":801,
+              "height":512
+            },
+            "full":
+            { 
+              "url":"./images/2023_Tesla_Cybertruck_Tri_Motor.webp",
+              "width":3000,
+              "height":3000
+            }
+          }
+        }
+      ]
+    }
+  }

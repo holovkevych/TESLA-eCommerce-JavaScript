@@ -1,0 +1,42 @@
+{
+    "id":"8",
+    "fields":
+    {
+      "company":"Model X",
+      "colors":["#1B3D81","silver", "black", "red", "#eae0c8"],
+      "price":9999000,
+      "featured": true,
+      "name":"Tesla Model X Long Range 2021",
+      "description": "Everyone’s favorite SUV with bird-inspired doors is making a comeback for the 2022 model year. With 360 miles of range, an optional 7-seat interior, and more quirks than Elon Musk himself, the 2022 Model X won’t fail to impress. The only downside of the new Model X is its pricey starting point which just crests the $100,000 mark, including destination.",
+      "list": "Range: 360 miles / Drivetrain: AWD / Acceleration: 0-60 in 3.8 seconds",
+      "image":
+      [
+        {
+          "url":"./images/2022_Tesla_Model_X_Long_Range.webp",
+          "filename":"2021_Tesla_Model_X_Long_Range.webp",
+          "type":"image/webp",
+          "thumbnails":
+          {
+            "small":
+            {
+              "url":"./images/2022_Tesla_Model_X_Long_Range.webp",
+              "width":56,
+              "height":36
+            },
+            "large":
+            {
+              "url":"./images/2022_Tesla_Model_X_Long_Range.webp",
+              "width":801,
+              "height":512
+            },
+            "full":
+            { 
+              "url":"./images/2022_Tesla_Model_X_Long_Range.webp",
+              "width":3000,
+              "height":3000
+            }
+          }
+        }
+      ]
+    }
+  }

@@ -1,0 +1,41 @@
+{
+    "id":"7",
+    "fields":
+    {
+      "company":"Model S",
+      "colors":["#1B3D81","silver", "black", "red", "#eae0c8"],
+      "price":8999000,
+      "name":"Tesla Model S Long Range 2021",
+      "description": "While the refreshed Model S Plaid has captured most of the media’s attention, the refreshed Model S Long Range is excellent in its own respect. If you don’t think you need to accelerate to sixty in 1.99 seconds, want to save $40,000, and go a little further per charge, the Model S Long Range is the perfect premium sedan. With 405 miles of range and a 3.1 second zero to sixty run, it is likely more than what you’d need a luxury sedan to do.",
+      "list": "Range: 405 miles / Drivetrain: AWD / Acceleration: 0-60 in 3.1 seconds",
+      "image":
+      [
+        {
+          "url":"./images/2021_Tesla_Model_S_Long_Range.webp",
+          "filename":"2021_Tesla_Model_S_Long_Range.webp",
+          "type":"image/webp",
+          "thumbnails":
+          {
+            "small":
+            {
+              "url":"./images/2021_Tesla_Model_S_Long_Range.webp",
+              "width":56,
+              "height":36
+            },
+            "large":
+            {
+              "url":"./images/2021_Tesla_Model_S_Long_Range.webp",
+              "width":801,
+              "height":512
+            },
+            "full":
+            { 
+              "url":"./images/2021_Tesla_Model_S_Long_Range.webp",
+              "width":3000,
+              "height":3000
+            }
+          }
+        }
+      ]
+    }
+  }

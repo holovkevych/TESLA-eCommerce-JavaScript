@@ -1,0 +1,43 @@
+{
+    "id":"1",
+    "fields":
+    {
+      "company":"Model 3",
+      "colors":["#1B3D81","silver", "black", "red", "#eae0c8"],
+      "price":3999000,
+      "name":"Tesla Model 3 Standard Plus 2021",
+      "description": "The Tesla Model 3 Standard Plus is Tesla’s cheapest model as well as the quintessential affordable EV currently for sale. Whether it’s the Model 3 Standard Plus’s performance, range, or driving dynamics, it has been setting the industry basis for comparison since 2019. The Model 3 Standard Plus can go from zero to sixty in just 5.3 seconds, and its range is a solid EPA-rated 262 miles, which puts far costlier options to shame. If you want an entry-level Tesla, but are willing to wait until March 2022 for delivery, the Model 3 is an excellent option.",
+      "list": "Range: 262 miles / Drivetrain: RWD / Acceleration: 0-60 in 5.3 seconds",
+      "image":
+      [
+        {
+          "id":"attcvDDMikF6G2iNi",
+          "url":"./images/2021_Tesla_Model_3_Standard_Plus.webp",
+          "filename":"2021_Tesla_Model_3_Standard_Plus.webp",
+          "size":62864,
+          "type":"image/webp",
+          "thumbnails":
+          {
+            "small":
+            {
+              "url":"./images/2021_Tesla_Model_3_Standard_Plus.webp",
+              "width":56,
+              "height":36
+            },
+            "large":
+            {
+              "url":"./images/2021_Tesla_Model_3_Standard_Plus.webp",
+              "width":801,
+              "height":512
+            },
+            "full":
+            { 
+              "url":"./images/2021_Tesla_Model_3_Standard_Plus.webp",
+              "width":3000,
+              "height":3000
+            }
+          }
+        }
+      ]
+    }
+  }

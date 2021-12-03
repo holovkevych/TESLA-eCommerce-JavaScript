@@ -1,0 +1,41 @@
+{
+    "id":"10",
+    "fields":
+    {
+      "company":"Model S",
+      "colors":["#1B3D81","silver", "black", "red", "#eae0c8"],
+      "price":12999000,
+      "name":"Tesla Model S Plaid 2021",
+      "description": "1,020 horsepower, zero to sixty in 1.99 seconds (subtracting the one-foot rollout), and 390 miles of range, the Model S Plaid is one of the most exciting EVs to release this year. In typical Elonian time, the first models delivered several months off schedule, but the car was well worth the wait to most. With more than enough range and hypercar defeating 0-60 time, the Model S Plaid will certainly not disappoint in any respect - for the most part.",
+      "list": "Range: 390 miles / Drivetrain: AWD / Acceleration: 0-60 in 1.99 seconds",
+      "image":
+      [
+        {
+          "url":"./images/2021_Tesla_Model_S_Plaid.webp",
+          "filename":"2021_Tesla_Model_S_Plaid.webp",
+          "type":"image/webp",
+          "thumbnails":
+          {
+            "small":
+            {
+              "url":"./images/2021_Tesla_Model_S_Plaid.webp",
+              "width":56,
+              "height":36
+            },
+            "large":
+            {
+              "url":"./images/2021_Tesla_Model_S_Plaid.webp",
+              "width":801,
+              "height":512
+            },
+            "full":
+            { 
+              "url":"./images/2021_Tesla_Model_S_Plaid.webp",
+              "width":3000,
+              "height":3000
+            }
+          }
+        }
+      ]
+    }
+  }

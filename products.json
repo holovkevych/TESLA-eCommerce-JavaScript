@@ -1,0 +1,594 @@
+[
+  {
+    "id":"1",
+    "fields":
+    {
+      "company":"Model 3",
+      "colors":["#1B3D81","silver", "black", "red", "#eae0c8"],
+      "price":3999000,
+      "name":"Tesla Model 3 Standard Plus 2021",
+      "description": "The Tesla Model 3 Standard Plus is Tesla’s cheapest model as well as the quintessential affordable EV currently for sale. Whether it’s the Model 3 Standard Plus’s performance, range, or driving dynamics, it has been setting the industry basis for comparison since 2019. The Model 3 Standard Plus can go from zero to sixty in just 5.3 seconds, and its range is a solid EPA-rated 262 miles, which puts far costlier options to shame. If you want an entry-level Tesla, but are willing to wait until March 2022 for delivery, the Model 3 is an excellent option.",
+      "list": "Range: 262 miles / Drivetrain: RWD / Acceleration: 0-60 in 5.3 seconds",
+      "image":
+      [
+        {
+          "id":"attcvDDMikF6G2iNi",
+          "url":"./images/2021_Tesla_Model_3_Standard_Plus.webp",
+          "filename":"2021_Tesla_Model_3_Standard_Plus.webp",
+          "size":62864,
+          "type":"image/webp",
+          "thumbnails":
+          {
+            "small":
+            {
+              "url":"./images/2021_Tesla_Model_3_Standard_Plus.webp",
+              "width":56,
+              "height":36
+            },
+            "large":
+            {
+              "url":"./images/2021_Tesla_Model_3_Standard_Plus.webp",
+              "width":801,
+              "height":512
+            },
+            "full":
+            { 
+              "url":"./images/2021_Tesla_Model_3_Standard_Plus.webp",
+              "width":3000,
+              "height":3000
+            }
+          }
+        }
+      ]
+    }
+  },
+
+  {
+    "id":"2",
+    "fields":
+    {
+      "company":"Model 3",
+      "colors":["#1B3D81","silver", "black", "red", "#eae0c8"],
+      "featured":true,
+      "price":3999000,
+      "name":"Tesla Model 3 Standard Plus LFP 2021",
+      "description": "The Tesla Model 3 Standard Plus with the LFP (lithium iron phosphate) battery is the cloak-and-dagger Model 3. What makes the LFP Model 3 mysterious is the fact that it’s only available at dealerships or on Tesla’s inventory page. Moreover, unlike the regular Model 3 SR+, the LFP variant has 9 fewer miles of range, but it can be regularly charged to 100%. Effectively, you’d get more range on a daily basis because Tesla recommends charging to 90% on all other models. If you’re interested in a Model 3 and want one soon, the LFP is definitely the best way to go; just make sure to check with your local Tesla center to see if they’re in stock.",
+      "list": "Range: 253 miles / Drivetrain: RWD / Acceleration: 0-60 in 5.3 seconds",
+      "image":
+      [
+        {
+          "url":"./images/2021_Tesla_Model_3_Standard_Plus_LFP.webp",
+          "filename":"2021_Tesla_Model_3_Standard_Plus_LFP.webp",
+          "type":"image/webp",
+          "thumbnails":
+          {
+            "small":
+            {
+              "url":"./images/2021_Tesla_Model_3_Standard_Plus_LFP.webp",
+              "width":56,
+              "height":36
+            },
+            "large":
+            {
+              "url":"./images/2021_Tesla_Model_3_Standard_Plus_LFP.webp",
+              "width":801,
+              "height":512
+            },
+            "full":
+            { 
+              "url":"./images/2021_Tesla_Model_3_Standard_Plus_LFP.webp",
+              "width":3000,
+              "height":3000
+            }
+          }
+        }
+      ]
+    }
+  },
+
+  {
+    "id":"3",
+    "fields":
+    {
+      "company":"Model 3",
+      "colors":["#1B3D81","silver", "black", "red", "#eae0c8"],
+      "price":4999000,
+      "name":"Tesla Model 3 Long Range 2021",
+      "description": "The Tesla Model 3 Long Range continues to pack a massive punch in the range and power department, all for a reasonable price. The 2021 Tesla Model 3 Long Range AWD costs less than $50,000 and can provide 353 miles of range, which is an incredible figure. Complementing the range is a rapid zero to sixty time of just 4.2 seconds. For what you get, the Model 3 Long Range is a great option.",
+      "list": "Range: 353 miles / Drivetrain: AWD / Acceleration: 0-60 in 4.2 seconds",
+      "image":
+      [
+        {
+          "url":"./images/2021_Tesla_Model_3_Long_Range.webp",
+          "filename":"2021_Tesla_Model_3_Long_Range.webp",
+          "type":"image/webp",
+          "thumbnails":
+          {
+            "small":
+            {
+              "url":"./images/2021_Tesla_Model_3_Long_Range.webp",
+              "width":56,
+              "height":36
+            },
+            "large":
+            {
+              "url":"./images/2021_Tesla_Model_3_Long_Range.webp",
+              "width":801,
+              "height":512
+            },
+            "full":
+            { 
+              "url":"./images/2021_Tesla_Model_3_Long_Range.webp",
+              "width":3000,
+              "height":3000
+            }
+          }
+        }
+      ]
+    }
+  },  
+
+  {
+    "id":"4",
+    "fields":
+    {
+      "company":"Model Y",
+      "colors":["#1B3D81","silver", "black", "red", "#eae0c8"],
+      "price":5399000,
+      "name":"Tesla Model Y Long Range 2021",
+      "description": "After fulfilling deliveries in March 2020, the Model Y quickly dominated the electric crossover market. In early 2021, a less expensive Standard Range variant was released, but it only lasted for a few months. Now, the cheapest Model Y costs $53,990, but it can go 326 miles on a single charge and features a dual motor setup. While the price is becoming more and more out of reach, so is its delivery date. If you were to order a Long Range Y, you’d be sitting at a March 2022 delivery date.",
+      "list": "Range: 326 miles / Drivetrain: AWD / Acceleration: 0-60 in 4.8 seconds",
+      "image":
+      [
+        {
+          "url":"./images/2021_Tesla_Model_Y_Long_Range.webp",
+          "filename":"2021_Tesla_Model_Y_Long_Range.webp",
+          "type":"image/webp",
+          "thumbnails":
+          {
+            "small":
+            {
+              "url":"./images/2021_Tesla_Model_Y_Long_Range.webp",
+              "width":56,
+              "height":36
+            },
+            "large":
+            {
+              "url":"./images/2021_Tesla_Model_Y_Long_Range.webp",
+              "width":801,
+              "height":512
+            },
+            "full":
+            { 
+              "url":"./images/2021_Tesla_Model_Y_Long_Range.webp",
+              "width":3000,
+              "height":3000
+            }
+          }
+        }
+      ]
+    }
+  },
+
+  {
+    "id":"5",
+    "fields":
+    {
+      "company":"Model 3",
+      "colors":["#1B3D81","silver", "black", "red", "#eae0c8"],
+      "price":5699000,
+      "name":"Tesla Model 3 Performance 2021",
+      "description": "Reaching its third year in production, the Tesla Model 3 Performance still excites. With a sub-$60,000 tag, the Model 3 Performance is one of the overall best performing vehicles for the price. Zero to sixty takes just 3.1 seconds, and it can achieve a top speed of 162 mph. As these performance figures are impressive for any car, the Model 3 Performance is a five-seater sedan with a 315-mile range.",
+      "list": "Range: 315 miles / Drivetrain: AWD / Acceleration: 0-60 in 3.1 seconds",
+      "image":
+      [
+        {
+          "url":"./images/2021_Tesla_Model_3_Performance.webp",
+          "filename":"2021_Tesla_Model_3_Performance.webp",
+          "type":"image/webp",
+          "thumbnails":
+          {
+            "small":
+            {
+              "url":"./images/2021_Tesla_Model_3_Performance.webp",
+              "width":56,
+              "height":36
+            },
+            "large":
+            {
+              "url":"./images/2021_Tesla_Model_3_Performance.webp",
+              "width":801,
+              "height":512
+            },
+            "full":
+            { 
+              "url":"./images/2021_Tesla_Model_3_Performance.webp",
+              "width":3000,
+              "height":3000
+            }
+          }
+        }
+      ]
+    }
+  },
+
+  {
+    "id":"6",
+    "fields":
+    {
+      "company":"Model Y",
+      "colors":["#1B3D81","silver", "black", "red", "#eae0c8"],
+      "price":6099000,
+      "name":"Tesla Model Y Performance 2021",
+      "description": "The Model Y Performance is the sportier version of the Long Range Model Y. It has a zero to sixty time of 3.5 seconds, and it can achieve 303 miles on a charge. For the price, its combination of performance and range are unparalleled in the crossover sector. Overall, $60,990 isn’t an awful price for a crossover with supercar-like specs. ",
+      "list": "Range: 303 miles / Drivetrain: AWD / Acceleration: 0-60 in 3.5 seconds",
+      "image":
+      [
+        {
+          "url":"./images/2021_Tesla_Model_Y_Performance.webp",
+          "filename":"2021_Tesla_Model_Y_Performance.webp",
+          "type":"image/webp",
+          "thumbnails":
+          {
+            "small":
+            {
+              "url":"./images/2021_Tesla_Model_Y_Performance.webp",
+              "width":56,
+              "height":36
+            },
+            "large":
+            {
+              "url":"./images/2021_Tesla_Model_Y_Performance.webp",
+              "width":801,
+              "height":512
+            },
+            "full":
+            { 
+              "url":"./images/2021_Tesla_Model_Y_Performance.webp",
+              "width":3000,
+              "height":3000
+            }
+          }
+        }
+      ]
+    }
+  },
+
+  {
+    "id":"7",
+    "fields":
+    {
+      "company":"Model S",
+      "colors":["#1B3D81","silver", "black", "red", "#eae0c8"],
+      "price":8999000,
+      "name":"Tesla Model S Long Range 2021",
+      "description": "While the refreshed Model S Plaid has captured most of the media’s attention, the refreshed Model S Long Range is excellent in its own respect. If you don’t think you need to accelerate to sixty in 1.99 seconds, want to save $40,000, and go a little further per charge, the Model S Long Range is the perfect premium sedan. With 405 miles of range and a 3.1 second zero to sixty run, it is likely more than what you’d need a luxury sedan to do.",
+      "list": "Range: 405 miles / Drivetrain: AWD / Acceleration: 0-60 in 3.1 seconds",
+      "image":
+      [
+        {
+          "url":"./images/2021_Tesla_Model_S_Long_Range.webp",
+          "filename":"2021_Tesla_Model_S_Long_Range.webp",
+          "type":"image/webp",
+          "thumbnails":
+          {
+            "small":
+            {
+              "url":"./images/2021_Tesla_Model_S_Long_Range.webp",
+              "width":56,
+              "height":36
+            },
+            "large":
+            {
+              "url":"./images/2021_Tesla_Model_S_Long_Range.webp",
+              "width":801,
+              "height":512
+            },
+            "full":
+            { 
+              "url":"./images/2021_Tesla_Model_S_Long_Range.webp",
+              "width":3000,
+              "height":3000
+            }
+          }
+        }
+      ]
+    }
+  },
+
+  {
+    "id":"8",
+    "fields":
+    {
+      "company":"Model X",
+      "colors":["#1B3D81","silver", "black", "red", "#eae0c8"],
+      "price":9999000,
+      "featured": true,
+      "name":"Tesla Model X Long Range 2021",
+      "description": "Everyone’s favorite SUV with bird-inspired doors is making a comeback for the 2022 model year. With 360 miles of range, an optional 7-seat interior, and more quirks than Elon Musk himself, the 2022 Model X won’t fail to impress. The only downside of the new Model X is its pricey starting point which just crests the $100,000 mark, including destination.",
+      "list": "Range: 360 miles / Drivetrain: AWD / Acceleration: 0-60 in 3.8 seconds",
+      "image":
+      [
+        {
+          "url":"./images/2022_Tesla_Model_X_Long_Range.webp",
+          "filename":"2021_Tesla_Model_X_Long_Range.webp",
+          "type":"image/webp",
+          "thumbnails":
+          {
+            "small":
+            {
+              "url":"./images/2022_Tesla_Model_X_Long_Range.webp",
+              "width":56,
+              "height":36
+            },
+            "large":
+            {
+              "url":"./images/2022_Tesla_Model_X_Long_Range.webp",
+              "width":801,
+              "height":512
+            },
+            "full":
+            { 
+              "url":"./images/2022_Tesla_Model_X_Long_Range.webp",
+              "width":3000,
+              "height":3000
+            }
+          }
+        }
+      ]
+    }
+  },
+
+  {
+    "id":"9",
+    "fields":
+    {
+      "company":"Model X",
+      "colors":["#1B3D81","silver", "black", "red", "#eae0c8"],
+      "price":11999000,
+      "name":"Tesla Model X Plaid 2022",
+      "description": "The Model X Plaid is the surprising bargain on the list. While a six-figure SUV doesn’t typically resonate with a ‘bargain,’ rest assured that the Model X Plaid costs $10,000 less than the S Plaid. Both the S and X Plaid share the powertrain and technological underpinnings, but the X is a far more substantial vehicle. Furthermore, unlike the S, the X offers more storage, additional seating options, and a max tow rating of 5,000 pounds.",
+      "list": "Range: 340 miles / Drivetrain: AWD / Acceleration: 0-60 in 2.5 seconds",
+      "image":
+      [
+        {
+          "url":"./images/2022_Tesla_Model_X_Plaid.webp",
+          "filename":"2022_Tesla_Model_X_Plaid.webp",
+          "type":"image/webp",
+          "thumbnails":
+          {
+            "small":
+            {
+              "url":"./images/2022_Tesla_Model_X_Plaid.webp",
+              "width":56,
+              "height":36
+            },
+            "large":
+            {
+              "url":"./images/2022_Tesla_Model_X_Plaid.webp",
+              "width":801,
+              "height":512
+            },
+            "full":
+            { 
+              "url":"./images/2022_Tesla_Model_X_Plaid.webp",
+              "width":3000,
+              "height":3000
+            }
+          }
+        }
+      ]
+    }
+  },
+
+  {
+    "id":"10",
+    "fields":
+    {
+      "company":"Model S",
+      "colors":["#1B3D81","silver", "black", "red", "#eae0c8"],
+      "price":12999000,
+      "name":"Tesla Model S Plaid 2021",
+      "description": "1,020 horsepower, zero to sixty in 1.99 seconds (subtracting the one-foot rollout), and 390 miles of range, the Model S Plaid is one of the most exciting EVs to release this year. In typical Elonian time, the first models delivered several months off schedule, but the car was well worth the wait to most. With more than enough range and hypercar defeating 0-60 time, the Model S Plaid will certainly not disappoint in any respect - for the most part.",
+      "list": "Range: 390 miles / Drivetrain: AWD / Acceleration: 0-60 in 1.99 seconds",
+      "image":
+      [
+        {
+          "url":"./images/2021_Tesla_Model_S_Plaid.webp",
+          "filename":"2021_Tesla_Model_S_Plaid.webp",
+          "type":"image/webp",
+          "thumbnails":
+          {
+            "small":
+            {
+              "url":"./images/2021_Tesla_Model_S_Plaid.webp",
+              "width":56,
+              "height":36
+            },
+            "large":
+            {
+              "url":"./images/2021_Tesla_Model_S_Plaid.webp",
+              "width":801,
+              "height":512
+            },
+            "full":
+            { 
+              "url":"./images/2021_Tesla_Model_S_Plaid.webp",
+              "width":3000,
+              "height":3000
+            }
+          }
+        }
+      ]
+    }
+  },
+
+  {
+    "id":"11",
+    "fields":
+    {
+      "company":"Cybertruck",
+      "colors":["#1B3D81","silver", "black", "red", "#eae0c8"],
+      "price":3990000,
+      "name":"Tesla Cybertruck Single Motor 2023",
+      "description": "With a similar number of flat edges as a Paper Mate pink eraser, Tesla’s trapezoidal oeuvre is that of any Californian millennial’s dream. But, like most dreams and ambitions, the Cybertruck is probably not coming anytime soon. The Cybertruck has recently been delayed to late 2022, and if Tesla says something is delayed, expect that date to likely change.",
+      "list": "Range: 250+ miles / Drivetrain: RWD / Acceleration: 0-60 in <6.5 seconds / Towing Capacity: 7.500+ pounds",
+      "image":
+      [
+        {
+          "url":"./images/2023_Tesla_Cybertruck_Single_Motor.webp",
+          "filename":"2023_Tesla_Cybertruck_Single_Motor.webp",
+          "type":"image/webp",
+          "thumbnails":
+          {
+            "small":
+            {
+              "url":"./images/2023_Tesla_Cybertruck_Single_Motor.webp",
+              "width":56,
+              "height":36
+            },
+            "large":
+            {
+              "url":"./images/2023_Tesla_Cybertruck_Single_Motor.webp",
+              "width":801,
+              "height":512
+            },
+            "full":
+            { 
+              "url":"./images/2023_Tesla_Cybertruck_Single_Motor.webp",
+              "width":3000,
+              "height":3000
+            }
+          }
+        }
+      ]
+    }
+  },
+
+  {
+    "id":"12",
+    "fields":
+    {
+      "company":"Cybertruck",
+      "colors":["#1B3D81","silver", "black", "red", "#eae0c8"],
+      "price":4990000,
+      "name":"Tesla Cybertruck Dual Motor 2023",
+      "description": "The Dual Motor Cybertruck is the mid-level option. Pricing starts at $49,900, which isn’t that bad in the pickup truck world. The Dual Motor Cybertruck has a tow rating of 10,000 pounds and an impressive range of over 300 miles. Pair this with its 4.5 second zero to sixty run, and it becomes apparent that the Dual Motor Cybertruck is a serious contender against both petrol and electric pickups.",
+      "list": "Range: 300+ miles / Drivetrain: AWD / Acceleration: 0-60 in <4.5 seconds / Towing Capacity: 10.000+ pounds",
+      "image":
+      [
+        {
+          "url":"./images/2023_Tesla_Cybertruck_Dual_Motor.webp",
+          "filename":"2023_Tesla_Cybertruck_Dual_Motor.webp",
+          "type":"image/webp",
+          "thumbnails":
+          {
+            "small":
+            {
+              "url":"./images/2023_Tesla_Cybertruck_Dual_Motor.webp",
+              "width":56,
+              "height":36
+            },
+            "large":
+            {
+              "url":"./images/2023_Tesla_Cybertruck_Dual_Motor.webp",
+              "width":801,
+              "height":512
+            },
+            "full":
+            { 
+              "url":"./images/2023_Tesla_Cybertruck_Dual_Motor.webp",
+              "width":3000,
+              "height":3000
+            }
+          }
+        }
+      ]
+    }
+  },
+
+  {
+    "id":"13",
+    "fields":
+    {
+      "company":"Cybertruck",
+      "colors":["#1B3D81","silver", "black", "red", "#eae0c8"],
+      "price":6990000,
+      "featured": true,
+      "name":"Tesla Cybertruck Tri Motor 2023",
+      "description": "Since Tesla manufactures the Cybertruck, there obviously has to be an obnoxious performance variant. The top trim Cybertruck utilizes a tri-motor setup and can accelerate from zero to sixty in under three seconds, which is impressive for any vehicle, let alone a trapezoidal prism with four wheels.",
+      "list": "Range: 500+ miles / Drivetrain: AWD / Acceleration: 0-60 in <2.9 seconds / Towing Capacity: 14.000+ pounds",
+      "image":
+      [
+        {
+          "url":"./images/2023_Tesla_Cybertruck_Tri_Motor.webp",
+          "filename":"2023_Tesla_Cybertruck_Tri_Motor.webp",
+          "type":"image/webp",
+          "thumbnails":
+          {
+            "small":
+            {
+              "url":"./images/2023_Tesla_Cybertruck_Tri_Motor.webp",
+              "width":56,
+              "height":36
+            },
+            "large":
+            {
+              "url":"./images/2023_Tesla_Cybertruck_Tri_Motor.webp",
+              "width":801,
+              "height":512
+            },
+            "full":
+            { 
+              "url":"./images/2023_Tesla_Cybertruck_Tri_Motor.webp",
+              "width":3000,
+              "height":3000
+            }
+          }
+        }
+      ]
+    }
+  },
+
+  {
+    "id":"14",
+    "fields":
+    {
+      "company":"Roadster",
+      "colors":["#1B3D81","silver", "black", "red", "#eae0c8"],
+      "price":20000000,
+      "name":"Tesla Roadster 202X",
+      "description": "Talks of an updated Roadster began circulating as early as 2011. With more delays than a budget airline flight, the refreshed Tesla Roadster should surely come out soon. Well, it’s actually unlikely to come out soon because the Cybertruck, which has been delayed, is prioritized for production. However, the Roadster should be worth the wait because it will provide disturbingly quick performance numbers: 620 miles of range and a 1.9 second 0-60 run in the base model. A more powerful SpaceX Edition is also underway, and since it’s equipped with cold air thrusters, expect a zero to sixty time of around 1.1 seconds.",
+      "list": "Range: 620 miles / Drivetrain: AWD / Acceleration: 0-60 in <1.9 seconds",
+      "image":
+      [
+        {
+          "url":"./images/202X_Tesla_Roadster.webp",
+          "filename":"202X_Tesla_Roadster.webp",
+          "type":"image/webp",
+          "thumbnails":
+          {
+            "small":
+            {
+              "url":"./images/202X_Tesla_Roadster.webp",
+              "width":56,
+              "height":36
+            },
+            "large":
+            {
+              "url":"./images/202X_Tesla_Roadster.webp",
+              "width":801,
+              "height":512
+            },
+            "full":
+            { 
+              "url":"./images/202X_Tesla_Roadster.webp",
+              "width":3000,
+              "height":3000
+            }
+          }
+        }
+      ]
+    }
+  }
+]

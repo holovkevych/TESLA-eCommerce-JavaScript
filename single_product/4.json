@@ -1,0 +1,41 @@
+{
+    "id":"4",
+    "fields":
+    {
+      "company":"Model Y",
+      "colors":["#1B3D81","silver", "black", "red", "#eae0c8"],
+      "price":5399000,
+      "name":"Tesla Model Y Long Range 2021",
+      "description": "After fulfilling deliveries in March 2020, the Model Y quickly dominated the electric crossover market. In early 2021, a less expensive Standard Range variant was released, but it only lasted for a few months. Now, the cheapest Model Y costs $53,990, but it can go 326 miles on a single charge and features a dual motor setup. While the price is becoming more and more out of reach, so is its delivery date. If you were to order a Long Range Y, you’d be sitting at a March 2022 delivery date.",
+      "list": "Range: 326 miles / Drivetrain: AWD / Acceleration: 0-60 in 4.8 seconds",
+      "image":
+      [
+        {
+          "url":"./images/2021_Tesla_Model_Y_Long_Range.webp",
+          "filename":"2021_Tesla_Model_Y_Long_Range.webp",
+          "type":"image/webp",
+          "thumbnails":
+          {
+            "small":
+            {
+              "url":"./images/2021_Tesla_Model_Y_Long_Range.webp",
+              "width":56,
+              "height":36
+            },
+            "large":
+            {
+              "url":"./images/2021_Tesla_Model_Y_Long_Range.webp",
+              "width":801,
+              "height":512
+            },
+            "full":
+            { 
+              "url":"./images/2021_Tesla_Model_Y_Long_Range.webp",
+              "width":3000,
+              "height":3000
+            }
+          }
+        }
+      ]
+    }
+  }

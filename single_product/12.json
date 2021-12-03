@@ -1,0 +1,41 @@
+{
+    "id":"12",
+    "fields":
+    {
+      "company":"Cybertruck",
+      "colors":["#1B3D81","silver", "black", "red", "#eae0c8"],
+      "price":4990000,
+      "name":"Tesla Cybertruck Dual Motor 2023",
+      "description": "The Dual Motor Cybertruck is the mid-level option. Pricing starts at $49,900, which isn’t that bad in the pickup truck world. The Dual Motor Cybertruck has a tow rating of 10,000 pounds and an impressive range of over 300 miles. Pair this with its 4.5 second zero to sixty run, and it becomes apparent that the Dual Motor Cybertruck is a serious contender against both petrol and electric pickups.",
+      "list": "Range: 300+ miles / Drivetrain: AWD / Acceleration: 0-60 in <4.5 seconds / Towing Capacity: 10.000+ pounds",
+      "image":
+      [
+        {
+          "url":"./images/2023_Tesla_Cybertruck_Dual_Motor.webp",
+          "filename":"2023_Tesla_Cybertruck_Dual_Motor.webp",
+          "type":"image/webp",
+          "thumbnails":
+          {
+            "small":
+            {
+              "url":"./images/2023_Tesla_Cybertruck_Dual_Motor.webp",
+              "width":56,
+              "height":36
+            },
+            "large":
+            {
+              "url":"./images/2023_Tesla_Cybertruck_Dual_Motor.webp",
+              "width":801,
+              "height":512
+            },
+            "full":
+            { 
+              "url":"./images/2023_Tesla_Cybertruck_Dual_Motor.webp",
+              "width":3000,
+              "height":3000
+            }
+          }
+        }
+      ]
+    }
+  }

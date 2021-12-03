@@ -1,0 +1,41 @@
+{
+    "id":"3",
+    "fields":
+    {
+      "company":"Model 3",
+      "colors":["#1B3D81","silver", "black", "red", "#eae0c8"],
+      "price":4999000,
+      "name":"Tesla Model 3 Long Range 2021",
+      "description": "The Tesla Model 3 Long Range continues to pack a massive punch in the range and power department, all for a reasonable price. The 2021 Tesla Model 3 Long Range AWD costs less than $50,000 and can provide 353 miles of range, which is an incredible figure. Complementing the range is a rapid zero to sixty time of just 4.2 seconds. For what you get, the Model 3 Long Range is a great option.",
+      "list": "Range: 353 miles / Drivetrain: AWD / Acceleration: 0-60 in 4.2 seconds",
+      "image":
+      [
+        {
+          "url":"./images/2021_Tesla_Model_3_Long_Range.webp",
+          "filename":"2021_Tesla_Model_3_Long_Range.webp",
+          "type":"image/webp",
+          "thumbnails":
+          {
+            "small":
+            {
+              "url":"./images/2021_Tesla_Model_3_Long_Range.webp",
+              "width":56,
+              "height":36
+            },
+            "large":
+            {
+              "url":"./images/2021_Tesla_Model_3_Long_Range.webp",
+              "width":801,
+              "height":512
+            },
+            "full":
+            { 
+              "url":"./images/2021_Tesla_Model_3_Long_Range.webp",
+              "width":3000,
+              "height":3000
+            }
+          }
+        }
+      ]
+    }
+  }

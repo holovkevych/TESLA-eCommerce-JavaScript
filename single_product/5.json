@@ -1,0 +1,41 @@
+{
+    "id":"5",
+    "fields":
+    {
+      "company":"Model 3",
+      "colors":["#1B3D81","silver", "black", "red", "#eae0c8"],
+      "price":5699000,
+      "name":"Tesla Model 3 Performance 2021",
+      "description": "Reaching its third year in production, the Tesla Model 3 Performance still excites. With a sub-$60,000 tag, the Model 3 Performance is one of the overall best performing vehicles for the price. Zero to sixty takes just 3.1 seconds, and it can achieve a top speed of 162 mph. As these performance figures are impressive for any car, the Model 3 Performance is a five-seater sedan with a 315-mile range.",
+      "list": "Range: 315 miles / Drivetrain: AWD / Acceleration: 0-60 in 3.1 seconds",
+      "image":
+      [
+        {
+          "url":"./images/2021_Tesla_Model_3_Performance.webp",
+          "filename":"2021_Tesla_Model_3_Performance.webp",
+          "type":"image/webp",
+          "thumbnails":
+          {
+            "small":
+            {
+              "url":"./images/2021_Tesla_Model_3_Performance.webp",
+              "width":56,
+              "height":36
+            },
+            "large":
+            {
+              "url":"./images/2021_Tesla_Model_3_Performance.webp",
+              "width":801,
+              "height":512
+            },
+            "full":
+            { 
+              "url":"./images/2021_Tesla_Model_3_Performance.webp",
+              "width":3000,
+              "height":3000
+            }
+          }
+        }
+      ]
+    }
+  }

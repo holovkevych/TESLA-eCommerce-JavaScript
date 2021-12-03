@@ -1,0 +1,41 @@
+{
+    "id":"11",
+    "fields":
+    {
+      "company":"Cybertruck",
+      "colors":["#1B3D81","silver", "black", "red", "#eae0c8"],
+      "price":3990000,
+      "name":"Tesla Cybertruck Single Motor 2023",
+      "description": "With a similar number of flat edges as a Paper Mate pink eraser, Tesla’s trapezoidal oeuvre is that of any Californian millennial’s dream. But, like most dreams and ambitions, the Cybertruck is probably not coming anytime soon. The Cybertruck has recently been delayed to late 2022, and if Tesla says something is delayed, expect that date to likely change.",
+      "list": "Range: 250+ miles / Drivetrain: RWD / Acceleration: 0-60 in <6.5 seconds / Towing Capacity: 7.500+ pounds",
+      "image":
+      [
+        {
+          "url":"./images/2023_Tesla_Cybertruck_Single_Motor.webp",
+          "filename":"2023_Tesla_Cybertruck_Single_Motor.webp",
+          "type":"image/webp",
+          "thumbnails":
+          {
+            "small":
+            {
+              "url":"./images/2023_Tesla_Cybertruck_Single_Motor.webp",
+              "width":56,
+              "height":36
+            },
+            "large":
+            {
+              "url":"./images/2023_Tesla_Cybertruck_Single_Motor.webp",
+              "width":801,
+              "height":512
+            },
+            "full":
+            { 
+              "url":"./images/2023_Tesla_Cybertruck_Single_Motor.webp",
+              "width":3000,
+              "height":3000
+            }
+          }
+        }
+      ]
+    }
+  }

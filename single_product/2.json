@@ -1,0 +1,42 @@
+{
+    "id":"2",
+    "fields":
+    {
+      "company":"Model 3",
+      "colors":["#1B3D81","silver", "black", "red", "#eae0c8"],
+      "featured":true,
+      "price":3999000,
+      "name":"Tesla Model 3 Standard Plus LFP 2021",
+      "description": "The Tesla Model 3 Standard Plus with the LFP (lithium iron phosphate) battery is the cloak-and-dagger Model 3. What makes the LFP Model 3 mysterious is the fact that it’s only available at dealerships or on Tesla’s inventory page. Moreover, unlike the regular Model 3 SR+, the LFP variant has 9 fewer miles of range, but it can be regularly charged to 100%. Effectively, you’d get more range on a daily basis because Tesla recommends charging to 90% on all other models. If you’re interested in a Model 3 and want one soon, the LFP is definitely the best way to go; just make sure to check with your local Tesla center to see if they’re in stock.",
+      "list": "Range: 253 miles / Drivetrain: RWD / Acceleration: 0-60 in 5.3 seconds",
+      "image":
+      [
+        {
+          "url":"./images/2021_Tesla_Model_3_Standard_Plus_LFP.webp",
+          "filename":"2021_Tesla_Model_3_Standard_Plus_LFP.webp",
+          "type":"image/webp",
+          "thumbnails":
+          {
+            "small":
+            {
+              "url":"./images/2021_Tesla_Model_3_Standard_Plus_LFP.webp",
+              "width":56,
+              "height":36
+            },
+            "large":
+            {
+              "url":"./images/2021_Tesla_Model_3_Standard_Plus_LFP.webp",
+              "width":801,
+              "height":512
+            },
+            "full":
+            { 
+              "url":"./images/2021_Tesla_Model_3_Standard_Plus_LFP.webp",
+              "width":3000,
+              "height":3000
+            }
+          }
+        }
+      ]
+    }
+  }
