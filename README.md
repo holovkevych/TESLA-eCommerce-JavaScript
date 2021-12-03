@@ -1,1 +1,3 @@
 # TESLA-eCommerce-JavaScript
+
+Pet-project Tesla Store. Create using javascript. With cart, filters, json...
